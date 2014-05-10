@@ -18,5 +18,5 @@ This is the most simple yet readable version of 2048, and it only contains  4 fi
 
 ### Disclaimer
 
-This repo is a fork of [2048](http://www.oschina.net/code/snippet_139971_35449), I don't own it nor take any creidts. Please visit original author [CAO ran](http://my.oschina.net/tudas) for help if any.
+This repo is a fork of [2048](http://www.oschina.net/code/snippet_139971_35449), I don't own it nor take any creidts. Please visit original author [CAO Chao](http://my.oschina.net/tudas) for help if any.
 
