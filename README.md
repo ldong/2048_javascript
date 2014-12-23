@@ -20,3 +20,5 @@ This is the most simple yet readable version of 2048, and it only contains  4 fi
 
 This repo is a fork of [2048](http://www.oschina.net/code/snippet_139971_35449), I don't own it nor take any credits. Please visit original author [CAO Chao](http://my.oschina.net/tudas) for help if any.
 
+You can play it [here](http://ldong.org/2048/)
+
